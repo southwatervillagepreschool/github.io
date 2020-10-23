@@ -39,11 +39,11 @@ self.__precacheManifest = [
     "url": "framework-306fc8568941f19b2859.js"
   },
   {
-    "url": "app-5042aef824528b6be545.js"
+    "url": "app-49abca0e99a2a6d2f38b.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "7aa17fc7ba75cec2bb937144213dfdb8"
+    "revision": "2827a5083b9544f6b5120decf4a7178e"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-ad6431e4664bcf916d19.js"
@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "f5755ff82d7e93cf31c8eb17e487dca3"
+    "revision": "04942258085e84705246163fa29d609a"
   },
   {
     "url": "polyfill-90341bc35b5255d1a92f.js"
@@ -69,8 +69,8 @@ self.__precacheManifest = [
     "url": "component---src-templates-for-about-js-abcff59c1c3153f0dc76.js"
   },
   {
-    "url": "page-data/about/about-us/page-data.json",
-    "revision": "22b5e194e8728f4689b342fb9e4ade1e"
+    "url": "page-data/about/welcome-to-our-preschool/page-data.json",
+    "revision": "32556797091ee49eddac4ba59384332d"
   },
   {
     "url": "page-data/sq/d/2987686015.json",
@@ -81,67 +81,32 @@ self.__precacheManifest = [
     "revision": "583c27033f9201d78992de2aa2aee730"
   },
   {
-    "url": "page-data/about/agm-2020/page-data.json",
-    "revision": "6391e3b19939e696a00f1bae6dd2b364"
-  },
-  {
-    "url": "page-data/about/corvid-19/page-data.json",
-    "revision": "8fcc03881862674fd7993666ee9b53bd"
-  },
-  {
-    "url": "page-data/about/early-years-foundation-stage-(eyfs)/page-data.json",
-    "revision": "68574d201f347ba9717b883f6184e6cc"
-  },
-  {
-    "url": "page-data/about/fees/page-data.json",
-    "revision": "ed311aec029c71f78f3caeaecb5945c9"
-  },
-  {
-    "url": "component---src-pages-about-js-db534f4606611dcce7e6.js"
-  },
-  {
-    "url": "page-data/about/page-data.json",
-    "revision": "345049e5e151ae6372bbb8f66af04753"
-  },
-  {
-    "url": "page-data/sq/d/1855917675.json",
-    "revision": "358b47fdf49e40e47f343034d877bb91"
-  },
-  {
-    "url": "page-data/about/key-person-scheme/page-data.json",
-    "revision": "80a3885416893190bf39b0fa05937c79"
-  },
-  {
-    "url": "page-data/about/our-staff/page-data.json",
-    "revision": "0a4e0dd3e1ded94f8f425b1c584b1f4c"
-  },
-  {
-    "url": "page-data/about/preschool-closure/page-data.json",
-    "revision": "1af5ab957e4ee91bd7c7b57d599873d3"
+    "url": "page-data/about/term-dates/page-data.json",
+    "revision": "0a20977f170debe65db7e789a52b9fda"
   },
   {
     "url": "page-data/about/routines-and-activities/page-data.json",
     "revision": "e6e0ccd5a42cf509a064763705676bda"
   },
   {
-    "url": "page-data/about/template-for-news-item/page-data.json",
-    "revision": "dd7f65da747e1056d76978ce4b20bce5"
+    "url": "page-data/about/key-person-scheme/page-data.json",
+    "revision": "80a3885416893190bf39b0fa05937c79"
   },
   {
-    "url": "page-data/about/term-dates/page-data.json",
-    "revision": "0a20977f170debe65db7e789a52b9fda"
+    "url": "page-data/about/fees/page-data.json",
+    "revision": "ed311aec029c71f78f3caeaecb5945c9"
   },
   {
-    "url": "page-data/about/test-news-2/page-data.json",
-    "revision": "c2e9a65cfb29c4498b0c30ee0f5ca61b"
+    "url": "page-data/about/early-years-foundation-stage-(eyfs)/page-data.json",
+    "revision": "68574d201f347ba9717b883f6184e6cc"
   },
   {
-    "url": "page-data/about/virtual-tour/page-data.json",
-    "revision": "1b5db3c516bcb1d9db8bb96e8db9055d"
+    "url": "page-data/about/about-us/page-data.json",
+    "revision": "22b5e194e8728f4689b342fb9e4ade1e"
   },
   {
-    "url": "page-data/about/welcome-to-our-preschool/page-data.json",
-    "revision": "32556797091ee49eddac4ba59384332d"
+    "url": "page-data/about/corvid-19/page-data.json",
+    "revision": "8fcc03881862674fd7993666ee9b53bd"
   },
   {
     "url": "component---src-pages-contact-js-c987b156d03baca8f549.js"
@@ -155,8 +120,19 @@ self.__precacheManifest = [
     "revision": "d6f66025e313853012f2ea9e21d7138d"
   },
   {
+    "url": "component---src-pages-news-js-787b1b85e596fde4d8bd.js"
+  },
+  {
+    "url": "page-data/news/page-data.json",
+    "revision": "f61a46b5ff1d7aeab608fce92519c86e"
+  },
+  {
+    "url": "page-data/sq/d/165248251.json",
+    "revision": "56d89e89e30ceed93ec21af795b216d6"
+  },
+  {
     "url": "manifest.webmanifest",
-    "revision": "fded7137410263d8c6463600ac227315"
+    "revision": "bbee0af74698c64d31902e38fc87fe9a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -248,7 +224,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-5042aef824528b6be545.js`))) {
+  if (!resources || !(await caches.match(`/app-49abca0e99a2a6d2f38b.js`))) {
     return await fetch(event.request)
   }
 
